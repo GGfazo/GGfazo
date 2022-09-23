@@ -1,6 +1,3 @@
-Hi, I’m @GGfazo, and I'm learning :)
-
-<!---
-GGfazo/GGfazo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m GGfazo, and I'm learning :) (hopefully I'll keep learning)  
+Currently I'm creating a project using c++, but I also have a bit of experience with C# (using Unity mostly)  
+Thanks for reading!
